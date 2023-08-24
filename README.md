@@ -13,6 +13,8 @@ algorithms and both standard & advanced augmentation techniques(transformer and 
 Soon, all codes from the projects I have worked on will be available 
 in my GitHub with nice Readme files. 
 
+I am preparing for  the AWS Cloud Practitioner Examination in September.
+
 
 ## 🌱 Projects
 - **Facial Emotion Recognition**: ([GitHub Repo](https://github.com/Maleyka-gh/Facial_Emotion_Recognition))
