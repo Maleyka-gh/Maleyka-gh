@@ -1,17 +1,17 @@
 # Hi, I'm  Maleyka! 👋
 
-Finally, now I have time to build my portfolio in GitHub. It is in the process...
+Finally, now I have time to build my portfolio on GitHub. It is in the process...
 
 ## 🚀 About Me
-I have graduated from my master's in Cologne University of Applied Sciences,Germany with Data Science
+I graduated from my master's degree at Cologne University of Applied Sciences (Germany) with a Data Science
 focus. 
-I'm a Data Scientist/Ml engineer, passionate about uncovering insights from large datasets,
+I'm a Data Scientist/ML engineer, passionate about uncovering insights from large datasets,
 building predictive models and using data to solve real-world problems.
-I have worked several AI/Data Science projects in Germany both national and international
-level, and did extensive research and experimentation during my master thesis in ML/DL 
-algorithms and both standard & advanced augmentation techniques(transformer and CNN based GANs).
-Soon all codes from the projects I have worked on will be available 
-in my GitHub with a nice Read.me files. 
+I have worked on several AI/Data Science projects in Germany, both national and international
+level, and did extensive research and experimentation during my master's thesis in ML/DL 
+algorithms and both standard & advanced augmentation techniques(transformer and CNN-based GANs).
+Soon, all codes from the projects I have worked on will be available 
+in my GitHub with nice Readme files. 
 
 
 ## 🌱 Projects
