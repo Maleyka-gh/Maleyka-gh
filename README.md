@@ -17,7 +17,7 @@ I'm preparing for the AWS Cloud Practitioner exam this September and writing a p
 
 ## 🌱 Projects
 - **Facial Emotion Recognition**: ([GitHub Repo](https://github.com/Maleyka-gh/Facial_Emotion_Recognition))
-- **Exploratory Data Analysis for DB regio** ([GitHub Repo](https://github.com/Maleyka-gh/DB_Regio_EDA)
+- **Exploratory Data Analysis for DB regio** ([GitHub Repo](https://github.com/Maleyka-gh/DB_Regio_EDA))
 - **Data Augmentation in Epileptic Seizure Detection**: in progress
 
 ## 📫 Contact Me
