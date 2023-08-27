@@ -7,13 +7,12 @@ I graduated from my master's degree at Cologne University of Applied Sciences (G
 focus. 
 I'm a Data Scientist/ML engineer, passionate about uncovering insights from large datasets,
 building predictive models and using data to solve real-world problems.
-I have worked on several AI/Data Science projects in Germany, both national and international
+I have worked on various AI/Data Science projects in Germany, both at a national and international
 level, and did extensive research and experimentation during my master's thesis in ML/DL 
-algorithms and both standard & advanced augmentation techniques(transformer and CNN-based GANs).
-Soon, all codes from the projects I have worked on will be available 
-in my GitHub with nice Readme files. 
+algorithms, both standard & advanced augmentation techniques,  including transformer and CNN-based GANs.
+I'm excited to share that all the code from my projects will soon be accessible with the Readme files on my GitHub.
 
-I am preparing for  the AWS Cloud Practitioner Examination in September.
+I'm preparing for the AWS Cloud Practitioner exam this September and writing a paper based on my master's thesis  for the HEALTHINF conference in Rome, Italy, in 2024.
 
 
 ## 🌱 Projects
