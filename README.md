@@ -1,4 +1,4 @@
-## Hi, I'm  Maleyka! 👋
+### Hi, I'm  Maleyka! 👋
 
 Finally, I have time to build my portfolio on GitHub. It is in progress...
 
@@ -10,13 +10,13 @@ I have worked on various Data Science projects in Germany, both at national and 
 level and conducted extensive research and experimentation during my master's thesis in ML/DL 
 algorithms, both standard & advanced augmentation techniques,  including transformer and CNN-based GANs.
 
-📚 Research & Publications & Upcoming Endeavors  
+### 📚Research & Publications & Upcoming Endeavors  
 
 - Writing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
 - Preparing for the AWS Cloud Practitioner exam this September.
   
 
-🔗 What's on My GitHub?
+### 🔗 What's on My GitHub?
 - I'm excited to share that all code from my various projects, including my Master's thesis, will soon be accessible here,
 complete with Readme files to guide you through each one.
 
