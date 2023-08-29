@@ -5,7 +5,7 @@ Finally, now I have time to build my portfolio on GitHub. It is in the process..
 ### About Me
 I graduated from my master's degree at Cologne University of Applied Sciences (Germany) with a Data Science
 focus. 
-I'm a Data Scientist/ML engineer based in Germany, passionate about transforming complex and large dataset
+I'm a Data Scientist/ML engineer based in Germany, passionate about transforming complex and large datasets
 into actionable insights and building predictive models to solve real-world problems.
 I have worked on various Data Science projects in Germany, both at national and international
 level and conducted extensive research and experimentation during my master's thesis in ML/DL 
