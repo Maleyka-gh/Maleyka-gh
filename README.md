@@ -24,7 +24,7 @@ complete with Readme files to guide you through each one.
 #### 🌱 Projects
 - **Facial Emotion Recognition**: ([GitHub Repo](https://github.com/Maleyka-gh/Facial_Emotion_Recognition))
 - **Exploratory Data Analysis for Deutsche Bahn Cargo** ([GitHub Repo](https://github.com/Maleyka-gh/DB_Regio_EDA))
-- **Data Augmentation in Epileptic Seizure Detection via CNNs based on 3D Acceleration, Heart Rate and Temperature**: in progress
+- **Data Augmentation in Epileptic Seizure Detection via CNNs based on 3D Acceleration, Heart Rate and Temperature** ([GitHub Repo](https://github.com/Maleyka-gh/Data_augmentation_in_epileptic_seizure_detection_viaCNNs]))
 
 #### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/maleyka-s-0b2363227)
