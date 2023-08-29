@@ -1,6 +1,6 @@
 ## Hi, I'm  Maleyka! 👋
 
-Finally, now I have time to build my portfolio on GitHub. It is in the process...
+Finally, I have time to build my portfolio on GitHub. It is in progress...
 
 ### About Me
 I graduated from my master's degree at Cologne University of Applied Sciences (Germany) with a Data Science
