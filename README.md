@@ -17,7 +17,7 @@ algorithms, both standard & advanced augmentation techniques,  including transfo
   
 
 #### 🔗 What's on My GitHub?
-- I'm excited to share that all code from my various projects, including my Master's thesis, will soon be accessible here,
+- I'm excited to share that all code for the projects I have worked on, including my Master's thesis, will soon be accessible here,
 complete with Readme files to guide you through each one.
 
 
