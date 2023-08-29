@@ -13,8 +13,8 @@ algorithms, both standard & advanced augmentation techniques,  including transfo
 
 🔮 Upcoming Endeavors
 
-- Preparing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
-- I'm preparing for the AWS Cloud Practitioner exam this September.
+- Writing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
+- Preparing for the AWS Cloud Practitioner exam this September.
 
 🔗 What's On My GitHub?
 I'm excited to share that all code from my various projects, including my Master's thesis, will soon be accessible here,
