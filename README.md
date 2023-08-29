@@ -7,16 +7,18 @@ I graduated from my master's degree at Cologne University of Applied Sciences (G
 focus. 
 I'm a Data Scientist/ML engineer, passionate about uncovering insights from large datasets,
 building predictive models and using data to solve real-world problems.
-I have worked on various Data Science projects in Germany, both at a national and international
+I have worked on various Data Science projects in Germany, both at national and international
 level and conducted extensive research and experimentation during my master's thesis in ML/DL 
 algorithms, both standard & advanced augmentation techniques,  including transformer and CNN-based GANs.
-I'm excited to share that all the code from my projects will soon be accessible with the Readme files on my GitHub.
 
 🔮 Upcoming Endeavors
 
-Preparing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
-I'm preparing for the AWS Cloud Practitioner exam this September.
+- Preparing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
+- I'm preparing for the AWS Cloud Practitioner exam this September.
 
+🔗 What's On My GitHub?
+I'm excited to share that all code from my various projects, including my Master's thesis, will soon be accessible here,
+complete with Readme files to guide you through each one.
 
 ## 🌱 Projects
 - **Facial Emotion Recognition**: ([GitHub Repo](https://github.com/Maleyka-gh/Facial_Emotion_Recognition))
