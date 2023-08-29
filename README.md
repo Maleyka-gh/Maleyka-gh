@@ -14,10 +14,12 @@ algorithms, both standard & advanced augmentation techniques,  including transfo
 
 - Writing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
 - Preparing for the AWS Cloud Practitioner exam this September.
+  
 
 🔗 What's on My GitHub?
 - I'm excited to share that all code from my various projects, including my Master's thesis, will soon be accessible here,
 complete with Readme files to guide you through each one.
+
 
 ### 🌱 Projects
 - **Facial Emotion Recognition**: ([GitHub Repo](https://github.com/Maleyka-gh/Facial_Emotion_Recognition))
