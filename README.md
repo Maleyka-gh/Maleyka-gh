@@ -10,7 +10,7 @@ I'm a Data Scientist/ML engineer based in Germany, passionate about transforming
 into actionable insights and building predictive models to address real-world problems.
 I have worked on various Data Science projects in Germany, both at national and international
 level and conducted extensive research and experimentation during my master's thesis in ML/DL 
-algorithms, both standard & advanced augmentation techniques,  including transformer and CNN-based GANs.
+algorithms, both standard & advanced data augmentation techniques (including transformer and CNN-based GANs).
 
 #### 📚Publications & Upcoming Endeavors  
 
