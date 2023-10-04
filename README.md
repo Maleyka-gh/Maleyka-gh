@@ -15,7 +15,7 @@ algorithms, both standard & advanced data augmentation techniques (including tra
 #### 📚Publications & Upcoming Endeavors  
 
 - Writing a research paper for the HEALTHINF conference in Rome, Italy, 2024.
-- Preparing for the AWS Cloud Practitioner exam this September.
+- Preparing for the AWS Cloud Practitioner exam.
   
 
 #### 🌱 Projects
