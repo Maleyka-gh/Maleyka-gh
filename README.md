@@ -1,4 +1,5 @@
-### Hi, I'm  Maleyka! 👋
+### Hi, I'm  Maleyka! 👋  
+here is my ([resume](https://drive.google.com/drive/u/0/my-drive))
 
 I am building my portfolio on GitHub. It is in progress...
 I'm excited to share that all code for the projects I have worked on, including my Master's thesis, will soon be accessible here,
