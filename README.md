@@ -1,5 +1,5 @@
 ### Hi, I'm  Maleyka! 👋  
-here is my ([resume](https://drive.google.com/file/d/1tb3_LwIv5-9M2Z1dz2ymwlfcNLxi4ntz/view?usp=drive_link))
+here is my ([resume](https://drive.google.com/file/d/1Z5O5ejTfEe3Mrjq8zC_SwgD6Z-GFy5Qm/view?usp=sharing))
 
 I am building my portfolio on GitHub. It is in progress...
 I'm excited to share that all code for the projects I have worked on will soon be uploaded here,
