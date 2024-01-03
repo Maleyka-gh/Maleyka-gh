@@ -1,6 +1,14 @@
 ### Hi, I'm  Maleyka! 👋  
 Here is my ([resume](https://drive.google.com/file/d/1v7IPV-DtYACNnUsowQKhOIvpNkbijQOO/view?usp=sharing))
 
+
+#### Dependencies
+- [NumPy](https://numpy.org/) - For numerical operations in Python.
+- [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis library.
+- [Matplotlib](https://matplotlib.org/) - Plotting library for creating visualizations.
+
+
+
 I am building my portfolio on GitHub. It is in progress...
 I'm excited to share that all code for the projects I have worked on will soon be uploaded here,
 complete with Readme files to guide you through each one.
