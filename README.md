@@ -2,10 +2,6 @@
 Here is my ([resume](https://drive.google.com/file/d/1v7IPV-DtYACNnUsowQKhOIvpNkbijQOO/view?usp=sharing))
 
 
-#### Dependencies
-- [NumPy](https://numpy.org/) - For numerical operations in Python.
-- [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis library.
-- [Matplotlib](https://matplotlib.org/) - Plotting library for creating visualizations.
 
 
 
