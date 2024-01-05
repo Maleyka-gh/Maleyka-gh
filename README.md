@@ -25,9 +25,9 @@ As I transition more towards data analysis and data engineering, I leverage my s
 
 #### 📚Publications & Upcoming Endeavors  
 
-- Research paper accepted for the HEALTHINF conference in Rome, Italy, 2024.
+- The research paper was accepted by the HEALTHINF conference in Rome, Italy, Februrary 2024 to be presented and published.
 - Preparing for the AWS Cloud Practitioner exam.
-- Advancing my German language skills with full speed.
+- Advancing my German language skills.
 
 
 #### 📫 Contact Me
