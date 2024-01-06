@@ -12,7 +12,7 @@ complete with Readme files to guide you through each one.
 #### 👤About Me
 I earned my master's degree from Cologne University of Applied Sciences in Germany, with a focus on Data Science.
 Having engaged in various high-impact Data Science projects across Germany, I bring international experience and a keen eye for data exploration, 
-preparation and analytical strategy formulation. My hands-on work during my master's thesis familiarized me with a spectrum of ML/DL algorithms, emphasizing both conventional and advanced data augmentation techniques, such as transformer models and CNN-based GANs.
+preparation and analytical strategy formulation. My hands-on work during my master's thesis and various Data Science projects familiarized me with a spectrum of ML/DL algorithms, emphasizing both conventional and advanced data augmentation techniques, such as transformer models and CNN-based GANs.
 As I transition more towards data analysis and data engineering, I leverage my skills to craft data-driven solutions and optimize data workflows, turning complex data into strategic assets and bridging data science with robust engineering for real-world impact.
 
 
