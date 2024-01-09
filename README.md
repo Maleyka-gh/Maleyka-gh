@@ -1,5 +1,5 @@
 ### Hi, I'm  Maleyka! 👋  
-Here is my ([resume](https://drive.google.com/file/d/1v7IPV-DtYACNnUsowQKhOIvpNkbijQOO/view?usp=sharing))
+Here is my ([resume](https://drive.google.com/file/d/1UswP6HhwB36KhCeUV_1RD6Qtw3UhLIKi/view?usp=sharing))
 
 
 
