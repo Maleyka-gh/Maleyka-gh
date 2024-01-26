@@ -1,7 +1,8 @@
 ### Hi, I'm  Maleyka! 👋  
 Here is my ([resume](https://drive.google.com/file/d/1vUsy6qNADfueAWAaQKz8S98o25MdjIXE/view?usp=sharing))
 
-#### 🌱 Projects
+#### 🌱 PROJECTS
+
 - **Exploratory Data Analysis for Deutsche Bahn Cargo** ([GitHub Repo](https://github.com/Maleyka-gh/DB_Regio_EDA))
 - **AirBnB Data Analysis with Tableau** ([GitHub Repo](https://github.com/Maleyka-gh/AirbnbTableau-dashboard))
 - **Data Augmentation in Epileptic Seizure Detection via CNNs based on 3D Acceleration, Heart Rate and Temperature** ([GitHub Repo](https://github.com/Maleyka-gh/Data_augmentation_in_epileptic_seizure_detection_viaCNNs))
